@@ -1,0 +1,67 @@
+body{
+
+background-image:url(https://abrakadabra.fun/uploads/posts/2022-03/thumbs/1647208155_1-abrakadabra-fun-p-pastelno-oranzhevii-1.jpg)
+
+}
+
+h2{
+
+color:#312C24;
+
+  font-family:Courier;
+
+  text-align:center;
+
+}
+
+h1{
+
+background-color:#fffffe;
+
+  text-align:center;
+
+  color:#42310E;
+
+  font-family:Garamond
+
+}
+
+p{
+
+font-family:Georgia;
+
+font-size:20px;
+
+  color:#312C24
+
+}
+
+h3{
+
+  text-align:center;
+
+}
+
+footer{
+
+background-color:#FFCF73
+
+}
+
+header{
+
+background-color:#FFCF73
+
+}
+
+header{
+
+text-align:center
+
+}
+
+footer{
+
+text-align:center
+
+}
