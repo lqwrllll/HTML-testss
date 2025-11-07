@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>Каталог косметики</title>
+<link rel="stylesheet">
+</head>
+<body>
+<h1>Каталог косметики</h1>
+<section>
+<h2>Для глаз</h2>
+<div class="flexbox">
+<div class="item">
+<h3>Тушь</h3>
+<p>600 руб</p>
+</div>
+<div class="item2">
+<h3>Карандаш для глаз</h3>
+<p>560 руб</p>
+</div>
+<div class="item3">
+<h3>Подложка под тени</h3>
+<p>1000 руб</p>
+</div>
+<div class="item4">
+<h3>Палетка</h3>
+<p>1200 руб</p>
+</div>
+<div class="item5">
+<h3>Жидкие тени</h3>
+<p>890 руб</p>
+</div>
+</div>
+</section>
+<section>
+<h2>Уходовая косметика</h2>
+<div class="grid">
+<div class="utem">
+<h3>Крем для лица</h3>
+<p>2500 руб</p>
+</div>
+<div class="utem2">
+<h3>Пенка для умывания</h3>
+<p>1340 руб</p>
+</div>
+<div class="utem3">
+<h3>Тоник</h3>
+<p>1350 руб</p>
+</div>
+<div class="utem4">
+<h3>Гидрофильное масло</h3>
+<p>3000 руб</p>
+</div>
+<div class="utem5">
+<h3>Увлажняющая сыворотка</h3>
+<p>2900 руб</p>
+</div>
+</div>
+</section>
+</body>
+</html>
