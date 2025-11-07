@@ -1,0 +1,550 @@
+
+
+h1  {
+
+
+
+  text-align: center;
+
+
+
+  color:#EB3B8B;
+
+
+
+  font-family: 'georgia'
+
+
+
+}
+
+
+
+h2{
+
+
+
+  text-align: center;
+
+
+
+  color:#A1285F;
+
+
+
+  font-family: 'georgia'
+
+
+
+}
+
+
+
+body {
+
+
+
+  background-color: #FBE1F2
+
+
+
+}
+
+
+
+.flexbox {
+
+
+
+display: flex;
+
+
+
+justify-content: space-between;
+
+
+
+align-items: center;
+
+
+
+height: 200px;
+
+
+
+background: #A04581;
+
+
+
+padding: 17px;
+
+
+
+}
+
+
+
+.grid {
+
+
+
+display: grid;
+
+
+
+grid-template-columns: repeat(2, 2fr);
+
+
+
+grid-gap: 150px;
+
+
+
+padding: 10px;
+
+
+
+background: #71325B;
+
+
+
+}
+
+
+
+h3{
+
+
+
+  font-family:'times new roman';
+
+
+
+color: #260018;
+
+
+
+}
+
+
+
+p {
+
+
+
+font-family:'Arial';
+
+
+
+color: #260018;
+
+
+
+}
+
+
+
+.item {
+
+
+
+background-color: #F7D5EB;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+.item2 {
+
+
+
+background-color: #FFA1DE;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+.item3 {
+
+
+
+background-color: #BF80A9;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+.item4 {
+
+
+
+background-color: #FFAAE1;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+.item5 {
+
+
+
+background-color: #E0AECF;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+
+
+.utem {
+
+
+
+background-color:  #FFADE2;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+.utem2 {
+
+
+
+background-color: #E4B3D3
+
+
+
+;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+.utem3 {
+
+
+
+background-color: #FFC7EB;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+.utem4 {
+
+
+
+background-color: #FFB4E5;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
+
+
+.utem5 {
+
+
+
+background-color: #FFBDE8;
+
+
+
+width: 230px;
+
+
+
+height: 180px;
+
+
+
+display: flex;
+
+
+
+flex-direction: column;
+
+
+
+justify-content: center;
+
+
+
+align-items: center;
+
+
+
+text-align: center;
+
+
+
+}
+
